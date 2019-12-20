@@ -1,0 +1,911 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1 FULL HD" tvg-logo="" group-title="ITALIA",RAI 1 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/262
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1 HD" tvg-logo="" group-title="ITALIA",RAI 1 HD
+http://live.safetv.pro:23000/pigeon/pigeon/261
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1 SD" tvg-logo="" group-title="ITALIA",RAI 1 SD
+http://live.safetv.pro:23000/pigeon/pigeon/260
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 FULL HD" tvg-logo="" group-title="ITALIA",RAI 2 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/259
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 HD" tvg-logo="" group-title="ITALIA",RAI 2 HD
+http://live.safetv.pro:23000/pigeon/pigeon/258
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 SD" tvg-logo="" group-title="ITALIA",RAI 2 SD
+http://live.safetv.pro:23000/pigeon/pigeon/257
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3 FULL HD" tvg-logo="" group-title="ITALIA",RAI 3 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/256
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3 HD" tvg-logo="" group-title="ITALIA",RAI 3 HD
+http://live.safetv.pro:23000/pigeon/pigeon/255
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3 SD" tvg-logo="" group-title="ITALIA",RAI 3 SD
+http://live.safetv.pro:23000/pigeon/pigeon/254
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4 FULL HD" tvg-logo="" group-title="ITALIA",RETE 4 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/230
+#EXTINF:-1 tvg-id="DITV.it" tvg-name="RETE 4 HD" tvg-logo="" group-title="ITALIA",RETE 4 HD
+http://live.safetv.pro:23000/pigeon/pigeon/229
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4 SD" tvg-logo="" group-title="ITALIA",RETE 4 SD
+http://live.safetv.pro:23000/pigeon/pigeon/228
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5 FULL HD" tvg-logo="" group-title="ITALIA",CANALE 5 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/359
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5 HD" tvg-logo="" group-title="ITALIA",CANALE 5 HD
+http://live.safetv.pro:23000/pigeon/pigeon/358
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5 SD" tvg-logo="" group-title="ITALIA",CANALE 5 SD
+http://live.safetv.pro:23000/pigeon/pigeon/357
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1 FULL HD" tvg-logo="" group-title="ITALIA",ITALIA 1 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/308
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1 HD" tvg-logo="" group-title="ITALIA",ITALIA 1 HD
+http://live.safetv.pro:23000/pigeon/pigeon/307
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1 SD" tvg-logo="" group-title="ITALIA",ITALIA 1 SD
+http://live.safetv.pro:23000/pigeon/pigeon/306
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA 7 FULL HD" tvg-logo="" group-title="ITALIA",LA 7 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/300
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA 7" tvg-logo="" group-title="ITALIA",LA 7
+http://live.safetv.pro:23000/pigeon/pigeon/301
+#EXTINF:-1 tvg-id="La7d.it" tvg-name="LA 7d FULL HD" tvg-logo="" group-title="ITALIA",LA 7d FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/298
+#EXTINF:-1 tvg-id="La7d.it" tvg-name="LA 7D" tvg-logo="" group-title="ITALIA",LA 7D
+http://live.safetv.pro:23000/pigeon/pigeon/299
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="TV 8" tvg-logo="" group-title="ITALIA",TV 8
+http://live.safetv.pro:23000/pigeon/pigeon/13
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE FULL HD" tvg-logo="" group-title="ITALIA",NOVE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/288
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="" group-title="ITALIA",NOVE
+http://live.safetv.pro:23000/pigeon/pigeon/289
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM FULL HD" tvg-logo="" group-title="ITALIA",RAI PREMIUM FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/244
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM HD" tvg-logo="" group-title="ITALIA",RAI PREMIUM HD
+http://live.safetv.pro:23000/pigeon/pigeon/243
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE FULL HD" tvg-logo="" group-title="ITALIA",RAI MOVIE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/247
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE HD" tvg-logo="" group-title="ITALIA",RAI MOVIE HD
+http://live.safetv.pro:23000/pigeon/pigeon/246
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4 FULL HD" tvg-logo="" group-title="ITALIA",RAI 4 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/253
+#EXTINF:-1 tvg-id="" tvg-name="CINE SONY" tvg-logo="" group-title="ITALIA",CINE SONY
+http://live.safetv.pro:23000/pigeon/pigeon/352
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4 HD" tvg-logo="" group-title="ITALIA",RAI 4 HD
+http://live.safetv.pro:23000/pigeon/pigeon/252
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5 FULL HD" tvg-logo="" group-title="ITALIA",RAI 5 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/251
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5 HD" tvg-logo="" group-title="ITALIA",RAI 5 HD
+http://live.safetv.pro:23000/pigeon/pigeon/250
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="" group-title="ITALIA",TV2000
+http://live.safetv.pro:23000/pigeon/pigeon/12
+#EXTINF:-1 tvg-id="" tvg-name="PADREPIO" tvg-logo="" group-title="ITALIA",PADREPIO
+http://live.safetv.pro:23000/pigeon/pigeon/287
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TOP CRIME" tvg-logo="" group-title="ITALIA",TOP CRIME
+http://live.safetv.pro:23000/pigeon/pigeon/14
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="" group-title="ITALIA",MEDIASET EXTRA
+http://live.safetv.pro:23000/pigeon/pigeon/295
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA 2" tvg-logo="" group-title="ITALIA",MEDIASET EXTRA 2
+http://live.safetv.pro:23000/pigeon/pigeon/294
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="CANALE 20 FULL HD" tvg-logo="" group-title="ITALIA",CANALE 20 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/361
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="CANALE 20 HD" tvg-logo="" group-title="ITALIA",CANALE 20 HD
+http://live.safetv.pro:23000/pigeon/pigeon/360
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="" group-title="ITALIA",ITALIA 2
+http://live.safetv.pro:23000/pigeon/pigeon/305
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="LA 5" tvg-logo="" group-title="ITALIA",LA 5
+http://live.safetv.pro:23000/pigeon/pigeon/302
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="" group-title="ITALIA",IRIS
+http://live.safetv.pro:23000/pigeon/pigeon/309
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO" tvg-logo="" group-title="ITALIA",GIALLO
+http://live.safetv.pro:23000/pigeon/pigeon/318
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FOOD NETWORK" tvg-logo="" group-title="ITALIA",FOOD NETWORK
+http://live.safetv.pro:23000/pigeon/pigeon/324
+#EXTINF:-1 tvg-id="" tvg-name="WINE TV" tvg-logo="" group-title="ITALIA",WINE TV
+http://live.safetv.pro:23000/pigeon/pigeon/6
+#EXTINF:-1 tvg-id="" tvg-name="SKY ALPHA" tvg-logo="" group-title="ITALIA",SKY ALPHA
+http://live.safetv.pro:23000/pigeon/pigeon/224
+#EXTINF:-1 tvg-id="" tvg-name="DONNA TV DIRETTO" tvg-logo="" group-title="ITALIA",DONNA TV DIRETTO
+http://live.safetv.pro:23000/pigeon/pigeon/335
+#EXTINF:-1 tvg-id="ZeligTV.it" tvg-name="ZELIG" tvg-logo="" group-title="ITALIA",ZELIG
+http://live.safetv.pro:23000/pigeon/pigeon/3
+#EXTINF:-1 tvg-id="PeopleTVRete7.it" tvg-name="SKY RETE 7" tvg-logo="" group-title="ITALIA",SKY RETE 7
+http://live.safetv.pro:23000/pigeon/pigeon/64
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV UHD" tvg-logo="" group-title="ITALIA",NASA TV UHD
+http://live.safetv.pro:23000/pigeon/pigeon/292
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC FULL HD" tvg-logo="" group-title="ITALIA",QVC FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/272
+#EXTINF:-1 tvg-id="HSE24.it" tvg-name="HSE 24 HD" tvg-logo="" group-title="ITALIA",HSE 24 HD
+http://live.safetv.pro:23000/pigeon/pigeon/312
+#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="CLASS TV MODA" tvg-logo="" group-title="ITALIA",CLASS TV MODA
+http://live.safetv.pro:23000/pigeon/pigeon/350
+#EXTINF:-1 tvg-id="CaseDesignStili.it" tvg-name="CASE DESIGN" tvg-logo="" group-title="ITALIA",CASE DESIGN
+http://live.safetv.pro:23000/pigeon/pigeon/355
+#EXTINF:-1 tvg-id="" tvg-name="POP ECONOMY" tvg-logo="" group-title="ITALIA",POP ECONOMY
+http://live.safetv.pro:23000/pigeon/pigeon/283
+#EXTINF:-1 tvg-id="" tvg-name="REALITY TV" tvg-logo="" group-title="ITALIA",REALITY TV
+http://live.safetv.pro:23000/pigeon/pigeon/233
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA UNO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/161
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA UNO HD
+http://live.safetv.pro:23000/pigeon/pigeon/160
+#EXTINF:-1 tvg-id="DITV.it" tvg-name="SKY CINEMA UNO  24 FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA UNO  24 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/163
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA UNO  24 HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA UNO  24 HD
+http://live.safetv.pro:23000/pigeon/pigeon/162
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DUE FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA DUE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/175
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="SKY CINEMA DUE HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA DUE HD
+http://live.safetv.pro:23000/pigeon/pigeon/174
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="SKY CINEMA DUE  24 FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA DUE  24 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/177
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DUE  24 HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA DUE  24 HD
+http://live.safetv.pro:23000/pigeon/pigeon/176
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="SKY CINEMA COLLECTION FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA COLLECTION FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/186
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="SKY CINEMA COLLECTION HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA COLLECTION HD
+http://live.safetv.pro:23000/pigeon/pigeon/185
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="SKY CINEMA FAMILY FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA FAMILY FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/172
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA FAMILY HD
+http://live.safetv.pro:23000/pigeon/pigeon/171
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA ACTION FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/189
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA ACTION HD
+http://live.safetv.pro:23000/pigeon/pigeon/188
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA SUSPENSE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/166
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA SUSPENSE HD
+http://live.safetv.pro:23000/pigeon/pigeon/165
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA ROMANCE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/169
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA ROMANCE HD
+http://live.safetv.pro:23000/pigeon/pigeon/168
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="SKY CINEMA DRAMA FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA DRAMA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/180
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="SKY CINEMA DRAMA HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA DRAMA HD
+http://live.safetv.pro:23000/pigeon/pigeon/179
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="SKY CINEMA COMEDY FULL HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA COMEDY FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/183
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="SKY CINEMA COMEDY HD" tvg-logo="" group-title="SKY CINEMA",SKY CINEMA COMEDY HD
+http://live.safetv.pro:23000/pigeon/pigeon/182
+#EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="SKY PREMIUM CINEMA FULL HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/73
+#EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="SKY PREMIUM CINEMA HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA HD
+http://live.safetv.pro:23000/pigeon/pigeon/72
+#EXTINF:-1 tvg-id="PremiumCinemaPlus24.it" tvg-name="SKY PREMIUM CINEMA 24 FULL HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA 24 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/81
+#EXTINF:-1 tvg-id="PremiumCinemaPlus24.it" tvg-name="SKY PREMIUM CINEMA 24 HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA 24 HD
+http://live.safetv.pro:23000/pigeon/pigeon/80
+#EXTINF:-1 tvg-id="PremiumCinemaEmotion.it" tvg-name="SKY PREMIUM CINEMA EMOTION FULL HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA EMOTION FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/77
+#EXTINF:-1 tvg-id="PremiumCinemaEmotion.it" tvg-name="SKY PREMIUM CINEMA EMOTION HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA EMOTION HD
+http://live.safetv.pro:23000/pigeon/pigeon/76
+#EXTINF:-1 tvg-id="PremiumCinemaComedy.it" tvg-name="SKY PREMIUM CINEMA COMEDY FULL HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA COMEDY FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/79
+#EXTINF:-1 tvg-id="PremiumCinemaComedy.it" tvg-name="SKY PREMIUM CINEMA COMEDY HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA COMEDY HD
+http://live.safetv.pro:23000/pigeon/pigeon/78
+#EXTINF:-1 tvg-id="PremiumCinemaEnergy.it" tvg-name="SKY PREMIUM CINEMA ENERGY FULL HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA ENERGY FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/75
+#EXTINF:-1 tvg-id="PremiumCinemaEnergy.it" tvg-name="SKY PREMIUM CINEMA ENERGY HD" tvg-logo="" group-title="PREMIUM CINEMA",SKY PREMIUM CINEMA ENERGY HD
+http://live.safetv.pro:23000/pigeon/pigeon/74
+#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="ITALIA",PARAMOUNT CHANNEL
+http://live.safetv.pro:23000/pigeon/pigeon/286
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="SKY BLAZE FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY BLAZE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/215
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="SKY BLAZE HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY BLAZE HD
+http://live.safetv.pro:23000/pigeon/pigeon/214
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY UNO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/29
+#EXTINF:-1 tvg-id="" tvg-name="SKY UNO HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY UNO HD
+http://live.safetv.pro:23000/pigeon/pigeon/28
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="SKY ATLANTIC FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY ATLANTIC FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/221
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="SKY ATLANTIC HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY ATLANTIC HD
+http://live.safetv.pro:23000/pigeon/pigeon/220
+#EXTINF:-1 tvg-id="LEI.it" tvg-name="SKY LEI FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY LEI FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/104
+#EXTINF:-1 tvg-id="LEI.it" tvg-name="SKY LEI HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY LEI HD
+http://live.safetv.pro:23000/pigeon/pigeon/103
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="SKY FOX FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/119
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="SKY FOX HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX HD
+http://live.safetv.pro:23000/pigeon/pigeon/118
+#EXTINF:-1 tvg-id="FoxLife.it" tvg-name="SKY FOX LIFE FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX LIFE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/117
+#EXTINF:-1 tvg-id="FoxLife.it" tvg-name="SKY FOX LIFE HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX LIFE HD
+http://live.safetv.pro:23000/pigeon/pigeon/116
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="SKY FOX CRIME FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX CRIME FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/121
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="SKY FOX CRIME HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX CRIME HD
+http://live.safetv.pro:23000/pigeon/pigeon/120
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOX COMEDY FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX COMEDY FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/123
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOX COMEDY HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX COMEDY HD
+http://live.safetv.pro:23000/pigeon/pigeon/122
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOX ANTIMATION FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX ANTIMATION FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/125
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOX ANTIMATION HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOX ANTIMATION HD
+http://live.safetv.pro:23000/pigeon/pigeon/124
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="SKY CRIME INVESTIGATION FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY CRIME INVESTIGATION FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/156
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="SKY CRIME INVESTIGATION HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY CRIME INVESTIGATION HD
+http://live.safetv.pro:23000/pigeon/pigeon/155
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="SKY COMEDY CENTRAL FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY COMEDY CENTRAL FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/157
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="SKY REAL TIME FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY REAL TIME FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/65
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="REALTIME" tvg-logo="" group-title="SKY INTRATTENIMENTO",REALTIME
+http://live.safetv.pro:23000/pigeon/pigeon/232
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="SKY CIELO FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY CIELO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/190
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="CIELO" tvg-logo="" group-title="SKY INTRATTENIMENTO",CIELO
+http://live.safetv.pro:23000/pigeon/pigeon/353
+#EXTINF:-1 tvg-id="MTVMusic.it" tvg-name="SKY MTV MUSIC FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY MTV MUSIC FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/97
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="SKY MTV FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY MTV FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/99
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="SKY MTV HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY MTV HD
+http://live.safetv.pro:23000/pigeon/pigeon/98
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="SKY DMAX FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY DMAX FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/133
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="" group-title="SKY INTRATTENIMENTO",DMAX
+http://live.safetv.pro:23000/pigeon/pigeon/336
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="SKY FOOD NETWORK FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY FOOD NETWORK FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/126
+#EXTINF:-1 tvg-id="LaEffe.it" tvg-name="SKY LAEFFE FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY LAEFFE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/107
+#EXTINF:-1 tvg-id="LaEffe.it" tvg-name="SKY LAEFFE HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY LAEFFE HD
+http://live.safetv.pro:23000/pigeon/pigeon/106
+#EXTINF:-1 tvg-id="PremiumAction.it" tvg-name="SKY PREMIUM ACTION FULL HD" tvg-logo="" group-title="PREMIUM INTRATTENIMENTO",SKY PREMIUM ACTION FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/83
+#EXTINF:-1 tvg-id="PremiumAction.it" tvg-name="SKY PREMIUM ACTION HD" tvg-logo="" group-title="PREMIUM INTRATTENIMENTO",SKY PREMIUM ACTION HD
+http://live.safetv.pro:23000/pigeon/pigeon/82
+#EXTINF:-1 tvg-id="PremiumCrime.it" tvg-name="SKY PREMIUM CRIME FULL HD" tvg-logo="" group-title="PREMIUM INTRATTENIMENTO",SKY PREMIUM CRIME FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/71
+#EXTINF:-1 tvg-id="PremiumCrime.it" tvg-name="SKY PREMIUM CRIME HD" tvg-logo="" group-title="PREMIUM INTRATTENIMENTO",SKY PREMIUM CRIME HD
+http://live.safetv.pro:23000/pigeon/pigeon/70
+#EXTINF:-1 tvg-id="Stories.it" tvg-name="SKY PREMIUM STORIES FULL HD" tvg-logo="" group-title="PREMIUM INTRATTENIMENTO",SKY PREMIUM STORIES FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/67
+#EXTINF:-1 tvg-id="Stories.it" tvg-name="SKY PREMIUM STORIES HD" tvg-logo="" group-title="PREMIUM INTRATTENIMENTO",SKY PREMIUM STORIES HD
+http://live.safetv.pro:23000/pigeon/pigeon/66
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="" group-title="SKY INTRATTENIMENTO",INVESTIGATION DISCOVERY
+http://live.safetv.pro:23000/pigeon/pigeon/310
+#EXTINF:-1 tvg-id="" tvg-name="[PF] Vetrina Sky Primafila HD" tvg-logo="" group-title="PRIMAFILA",[PF] Vetrina Sky Primafila HD
+http://live.safetv.pro:23000/pigeon/pigeon/5246
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 3D" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 3D
+http://live.safetv.pro:23000/pigeon/pigeon/5247
+#EXTINF:-1 tvg-id="Primafila1.it" tvg-name="[PF] SKY PRIMAFILA 1 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 1 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5248
+#EXTINF:-1 tvg-id="Primafila2.it" tvg-name="[PF] SKY PRIMAFILA 2 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 2 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5249
+#EXTINF:-1 tvg-id="Primafila3.it" tvg-name="[PF] SKY PRIMAFILA 3 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 3 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5250
+#EXTINF:-1 tvg-id="Primafila4.it" tvg-name="[PF] SKY PRIMAFILA 4 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 4 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5251
+#EXTINF:-1 tvg-id="Primafila5.it" tvg-name="[PF] SKY PRIMAFILA 5 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 5 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5252
+#EXTINF:-1 tvg-id="Primafila6.it" tvg-name="[PF] SKY PRIMAFILA 6 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 6 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5253
+#EXTINF:-1 tvg-id="Primafila7.it" tvg-name="[PF] SKY PRIMAFILA 7 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 7 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5254
+#EXTINF:-1 tvg-id="Primafila8.it" tvg-name="[PF] SKY PRIMAFILA 8 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 8 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5255
+#EXTINF:-1 tvg-id="Primafila9.it" tvg-name="[PF] SKY PRIMAFILA 9 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 9 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5256
+#EXTINF:-1 tvg-id="Primafila10.it" tvg-name="[PF] SKY PRIMAFILA 10 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 10 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5257
+#EXTINF:-1 tvg-id="Primafila11.it" tvg-name="[PF] SKY PRIMAFILA 11 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 11 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5258
+#EXTINF:-1 tvg-id="Primafila12.it" tvg-name="[PF] SKY PRIMAFILA 12 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 12 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5259
+#EXTINF:-1 tvg-id="Primafila13.it" tvg-name="[PF] SKY PRIMAFILA 13 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 13 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5260
+#EXTINF:-1 tvg-id="Primafila14.it" tvg-name="[PF] SKY PRIMAFILA 14 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 14 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5261
+#EXTINF:-1 tvg-id="Primafila15.it" tvg-name="[PF] SKY PRIMAFILA 15 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 15 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5262
+#EXTINF:-1 tvg-id="Primafila16.it" tvg-name="[PF] SKY PRIMAFILA 16 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 16 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5263
+#EXTINF:-1 tvg-id="Primafila17.it" tvg-name="[PF] SKY PRIMAFILA 17 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 17 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5264
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 1 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 1 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5265
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 2 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 2 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5266
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 3 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 3 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5267
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 4 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 4 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5268
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 5 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 5 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5269
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 6 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 6 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5270
+#EXTINF:-1 tvg-id="Primafila7.it" tvg-name="[PF] SKY PRIMAFILA 7 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 7 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5271
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 8 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 8 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5272
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA 9 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA 9 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5273
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA MULTIVISION 1 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA MULTIVISION 1 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5274
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA MULTIVISION 2 4K" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA MULTIVISION 2 4K
+http://live.safetv.pro:23000/pigeon/pigeon/5275
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA MULTIVISION 1 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA MULTIVISION 1 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5276
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA MULTIVISION 2 FHD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA MULTIVISION 2 FHD
+http://live.safetv.pro:23000/pigeon/pigeon/5277
+#EXTINF:-1 tvg-id="" tvg-name="[PF] SKY PRIMAFILA WWE HD" tvg-logo="" group-title="PRIMAFILA",[PF] SKY PRIMAFILA WWE HD
+http://live.safetv.pro:23000/pigeon/pigeon/5278
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] 4K" tvg-logo="" group-title="CANALI TEMATICI",[TEM] 4K
+http://live.safetv.pro:23000/pigeon/pigeon/4785
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Nature Discovery 4K (double audio)" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Nature Discovery 4K (double audio)
+http://live.safetv.pro:23000/pigeon/pigeon/4786
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Animazione FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Animazione FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4787
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Avventura FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Avventura FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4788
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Azione FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Azione FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4789
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Comico Cult FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Comico Cult FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4790
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Commedia FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Commedia FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4791
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Drammatico FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Drammatico FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4792
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Fantastico FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Fantastico FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4793
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Film in Sala  FHD (qualita camera)" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Film in Sala  FHD (qualita camera)
+http://live.safetv.pro:23000/pigeon/pigeon/4794
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Horror FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Horror FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4795
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Mitologia HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Mitologia HD
+http://live.safetv.pro:23000/pigeon/pigeon/4796
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Passione FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Passione FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4797
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Prima Visione FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Prima Visione FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4798
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema 007 HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema 007 HD
+http://live.safetv.pro:23000/pigeon/pigeon/4799
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Religion HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Religion HD
+http://live.safetv.pro:23000/pigeon/pigeon/4800
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Sorriso FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Sorriso FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4801
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Storico FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Storico FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4802
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Thriller FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Thriller FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4803
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Spaghetti Western FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Spaghetti Western FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4804
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Western FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Western FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4805
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Disney Topolino Paperino e Pippo HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Disney Topolino Paperino e Pippo HD
+http://live.safetv.pro:23000/pigeon/pigeon/4806
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Fiabe Magiche HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Fiabe Magiche HD
+http://live.safetv.pro:23000/pigeon/pigeon/4807
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Gomorra Stagione 1 FHD 1080p" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Gomorra Stagione 1 FHD 1080p
+http://live.safetv.pro:23000/pigeon/pigeon/4808
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Gomorra Stagione 2 FHD 1080p" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Gomorra Stagione 2 FHD 1080p
+http://live.safetv.pro:23000/pigeon/pigeon/4809
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Gomorra Stagione 3 FHD 1080p" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Gomorra Stagione 3 FHD 1080p
+http://live.safetv.pro:23000/pigeon/pigeon/4810
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Gomorra Stagione 4 FHD 1080p" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Gomorra Stagione 4 FHD 1080p
+http://live.safetv.pro:23000/pigeon/pigeon/4811
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Le Fiabe Disney HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Le Fiabe Disney HD
+http://live.safetv.pro:23000/pigeon/pigeon/4812
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Looney Toons HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Looney Toons HD
+http://live.safetv.pro:23000/pigeon/pigeon/4813
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Peppa Pig FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Peppa Pig FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4815
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Masha e Orso HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Masha e Orso HD
+http://live.safetv.pro:23000/pigeon/pigeon/4814
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Super Pigiamini FHD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Super Pigiamini FHD
+http://live.safetv.pro:23000/pigeon/pigeon/4816
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Trono di Spade S08" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Trono di Spade S08
+http://live.safetv.pro:23000/pigeon/pigeon/4817
+#EXTINF:-1 tvg-id="" tvg-name="[TEM] Cinema Bud Spencer HD" tvg-logo="" group-title="CANALI TEMATICI",[TEM] Cinema Bud Spencer HD
+http://live.safetv.pro:23000/pigeon/pigeon/4818
+#EXTINF:-1 tvg-id="" tvg-name="UNIRESAT HD" tvg-logo="" group-title="SPORT",UNIRESAT HD
+http://live.safetv.pro:23000/pigeon/pigeon/11
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA" tvg-logo="" group-title="SPORT",SPORT ITALIA
+http://live.safetv.pro:23000/pigeon/pigeon/25
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORT ITALIA HD" tvg-logo="" group-title="SPORT",SPORT ITALIA HD
+http://live.safetv.pro:23000/pigeon/pigeon/24
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORT ITALIA LIVE 24" tvg-logo="" group-title="SPORT",SPORT ITALIA LIVE 24
+http://live.safetv.pro:23000/pigeon/pigeon/23
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO" tvg-logo="" group-title="SPORT",SPORT ITALIA SOLO CALCIO
+http://live.safetv.pro:23000/pigeon/pigeon/22
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO MOTORI" tvg-logo="" group-title="SPORT",SPORT ITALIA SOLO MOTORI
+http://live.safetv.pro:23000/pigeon/pigeon/21
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RAI SPORT   FULL HD" tvg-logo="" group-title="ITALIA",RAI SPORT   FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/240
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RAI SPORT   HD" tvg-logo="" group-title="ITALIA",RAI SPORT   HD
+http://live.safetv.pro:23000/pigeon/pigeon/239
+#EXTINF:-1 tvg-id="" tvg-name="TOP CALCIO 24" tvg-logo="" group-title="SPORT",TOP CALCIO 24
+http://live.safetv.pro:23000/pigeon/pigeon/15
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS FULL HD" tvg-logo="" group-title="SPORT",SUPER TENNIS FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/20
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS HD" tvg-logo="" group-title="SPORT",SUPER TENNIS HD
+http://live.safetv.pro:23000/pigeon/pigeon/19
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="" group-title="SPORT",MOTOR TREND
+http://live.safetv.pro:23000/pigeon/pigeon/293
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO TV" tvg-logo="" group-title="SPORT",AUTOMOTO TV
+http://live.safetv.pro:23000/pigeon/pigeon/367
+#EXTINF:-1 tvg-id="" tvg-name="FNSPORT" tvg-logo="" group-title="SPORT",FNSPORT
+http://live.safetv.pro:23000/pigeon/pigeon/326
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 FULL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT 24 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/62
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT 24 HD
+http://live.safetv.pro:23000/pigeon/pigeon/61
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA FULL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT NBA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/43
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT NBA HD
+http://live.safetv.pro:23000/pigeon/pigeon/42
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO FULL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT UNO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/37
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT UNO HD
+http://live.safetv.pro:23000/pigeon/pigeon/36
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL FULL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT FOOTBALL FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/52
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT FOOTBALL HD
+http://live.safetv.pro:23000/pigeon/pigeon/51
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA FULL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT ARENA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/59
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT ARENA HD
+http://live.safetv.pro:23000/pigeon/pigeon/58
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF FULL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT GOLF FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/49
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT GOLF HD
+http://live.safetv.pro:23000/pigeon/pigeon/48
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 FULL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT F1 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/55
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT F1 HD
+http://live.safetv.pro:23000/pigeon/pigeon/54
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP FULL HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT MOTOGP FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/46
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP HD" tvg-logo="" group-title="SKY SPORT",SKY SPORT MOTOGP HD
+http://live.safetv.pro:23000/pigeon/pigeon/45
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="SKY EUROSPORT 1 FULL HD" tvg-logo="" group-title="SKY SPORT",SKY EUROSPORT 1 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/130
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="SKY EUROSPORT 1 HD" tvg-logo="" group-title="SKY SPORT",SKY EUROSPORT 1 HD
+http://live.safetv.pro:23000/pigeon/pigeon/129
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="SKY EUROSPORT 2 FULL HD" tvg-logo="" group-title="SKY SPORT",SKY EUROSPORT 2 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/128
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="SKY EUROSPORT 2 HD" tvg-logo="" group-title="SKY SPORT",SKY EUROSPORT 2 HD
+http://live.safetv.pro:23000/pigeon/pigeon/127
+#EXTINF:-1 tvg-id="ClassHorse.it" tvg-name="SKY HORSE TV FULL HD" tvg-logo="" group-title="SKY SPORT",SKY HORSE TV FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/109
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="SKY BIKE CHANNEL FULL HD" tvg-logo="" group-title="SKY SPORT",SKY BIKE CHANNEL FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/217
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="SKY BIKE CHANNEL HD" tvg-logo="" group-title="SKY SPORT",SKY BIKE CHANNEL HD
+http://live.safetv.pro:23000/pigeon/pigeon/216
+#EXTINF:-1 tvg-id="ClassHorse.it" tvg-name="CLASS HORSE TV" tvg-logo="" group-title="SKY SPORT",CLASS HORSE TV
+http://live.safetv.pro:23000/pigeon/pigeon/351
+#EXTINF:-1 tvg-id="GinxEsportsTV.it" tvg-name="SKY GINX ESPORT TV" tvg-logo="" group-title="SKY SPORT",SKY GINX ESPORT TV
+http://live.safetv.pro:23000/pigeon/pigeon/112
+#EXTINF:-1 tvg-id="Caccia.it" tvg-name="SKY CACCIA E PESCA FULL HD" tvg-logo="" group-title="SKY SPORT",SKY CACCIA E PESCA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/211
+#EXTINF:-1 tvg-id="Pesca.it" tvg-name="SKY PESCA E CACCIA FULL HD" tvg-logo="" group-title="SKY SPORT",SKY PESCA E CACCIA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/84
+#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY SPORT SERIE A FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/40
+#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A HD" tvg-logo="" group-title="SKY CALCIO",SKY SPORT SERIE A HD
+http://live.safetv.pro:23000/pigeon/pigeon/39
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-name="SKY CALCIO 1 FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 1 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/210
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-name="SKY CALCIO 1 HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 1 HD
+http://live.safetv.pro:23000/pigeon/pigeon/209
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-name="SKY CALCIO 2 FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 2 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/207
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-name="SKY CALCIO 2 HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 2 HD
+http://live.safetv.pro:23000/pigeon/pigeon/206
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-name="SKY CALCIO 3 FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 3 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/204
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-name="SKY CALCIO 3 HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 3 HD
+http://live.safetv.pro:23000/pigeon/pigeon/203
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-name="SKY CALCIO 4 FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 4 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/201
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-name="SKY CALCIO 4 HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 4 HD
+http://live.safetv.pro:23000/pigeon/pigeon/200
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-name="SKY CALCIO 5 FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 5 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/198
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-name="SKY CALCIO 5 HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 5 HD
+http://live.safetv.pro:23000/pigeon/pigeon/197
+#EXTINF:-1 tvg-id="SkySport256.it" tvg-name="SKY CALCIO 6 FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 6 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/196
+#EXTINF:-1 tvg-id="SkySport256.it" tvg-name="SKY CALCIO 6 HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 6 HD
+http://live.safetv.pro:23000/pigeon/pigeon/195
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 7 FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 7 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/194
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 7 HD" tvg-logo="" group-title="SKY CALCIO",SKY CALCIO 7 HD
+http://live.safetv.pro:23000/pigeon/pigeon/193
+#EXTINF:-1 tvg-id="RomaChannel.it" tvg-name="SKY ROMA FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY ROMA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/63
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="SKY MILAN FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY MILAN FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/100
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="SKY INTER FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY INTER FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/108
+#EXTINF:-1 tvg-id="TorinoChannel.it" tvg-name="SKY TORINO FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY TORINO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/30
+#EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="SKY LAZIO FULL HD" tvg-logo="" group-title="SKY CALCIO",SKY LAZIO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/105
+#EXTINF:-1 tvg-id="DAZN209.it" tvg-name="SKY DAZN BAR FULL HD" tvg-logo="" group-title="DAZN",SKY DAZN BAR FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/152
+#EXTINF:-1 tvg-id="DAZN209.it" tvg-name="SKY DAZN BAR HD" tvg-logo="" group-title="DAZN",SKY DAZN BAR HD
+http://live.safetv.pro:23000/pigeon/pigeon/151
+#EXTINF:-1 tvg-id="DAZN212.it" tvg-name="SKY DAZN BAR 2 FULL HD" tvg-logo="" group-title="DAZN",SKY DAZN BAR 2 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/154
+#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN BAR 2 HD" tvg-logo="" group-title="DAZN",SKY DAZN BAR 2 HD
+http://live.safetv.pro:23000/pigeon/pigeon/153
+#EXTINF:-1 tvg-id="DAZN209.it" tvg-name="DAZN WEB 1" tvg-logo="" group-title="DAZN",DAZN WEB 1
+http://live.safetv.pro:23000/pigeon/pigeon/348
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 2" tvg-logo="" group-title="DAZN",DAZN WEB 2
+http://live.safetv.pro:23000/pigeon/pigeon/346
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 3" tvg-logo="" group-title="DAZN",DAZN WEB 3
+http://live.safetv.pro:23000/pigeon/pigeon/345
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 4" tvg-logo="" group-title="DAZN",DAZN WEB 4
+http://live.safetv.pro:23000/pigeon/pigeon/344
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 5" tvg-logo="" group-title="DAZN",DAZN WEB 5
+http://live.safetv.pro:23000/pigeon/pigeon/343
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 6" tvg-logo="" group-title="DAZN",DAZN WEB 6
+http://live.safetv.pro:23000/pigeon/pigeon/342
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 7" tvg-logo="" group-title="DAZN",DAZN WEB 7
+http://live.safetv.pro:23000/pigeon/pigeon/341
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 8" tvg-logo="" group-title="DAZN",DAZN WEB 8
+http://live.safetv.pro:23000/pigeon/pigeon/340
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 9" tvg-logo="" group-title="DAZN",DAZN WEB 9
+http://live.safetv.pro:23000/pigeon/pigeon/339
+#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 10" tvg-logo="" group-title="DAZN",DAZN WEB 10
+http://live.safetv.pro:23000/pigeon/pigeon/347
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Albinoleffe" tvg-logo="" group-title="SERIE C e D",[Serie C] Albinoleffe
+http://live.safetv.pro:23000/pigeon/pigeon/485
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Alessandria" tvg-logo="" group-title="SERIE C e D",[Serie C] Alessandria
+http://live.safetv.pro:23000/pigeon/pigeon/484
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Arezzo" tvg-logo="" group-title="SERIE C e D",[Serie C] Arezzo
+http://live.safetv.pro:23000/pigeon/pigeon/483
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Arzignano Valchiampo" tvg-logo="" group-title="SERIE C e D",[Serie C] Arzignano Valchiampo
+http://live.safetv.pro:23000/pigeon/pigeon/482
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Avellino" tvg-logo="" group-title="SERIE C e D",[Serie C] Avellino
+http://live.safetv.pro:23000/pigeon/pigeon/481
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Az Picerno" tvg-logo="" group-title="SERIE C e D",[Serie C] Az Picerno
+http://live.safetv.pro:23000/pigeon/pigeon/480
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Bari" tvg-logo="" group-title="SERIE C e D",[Serie C] Bari
+http://live.safetv.pro:23000/pigeon/pigeon/479
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Bisceglie" tvg-logo="" group-title="SERIE C e D",[Serie C] Bisceglie
+http://live.safetv.pro:23000/pigeon/pigeon/478
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Carpi" tvg-logo="" group-title="SERIE C e D",[Serie C] Carpi
+http://live.safetv.pro:23000/pigeon/pigeon/477
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Carrarese" tvg-logo="" group-title="SERIE C e D",[Serie C] Carrarese
+http://live.safetv.pro:23000/pigeon/pigeon/476
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Casertana" tvg-logo="" group-title="SERIE C e D",[Serie C] Casertana
+http://live.safetv.pro:23000/pigeon/pigeon/475
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Catania" tvg-logo="" group-title="SERIE C e D",[Serie C] Catania
+http://live.safetv.pro:23000/pigeon/pigeon/474
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Catanzaro" tvg-logo="" group-title="SERIE C e D",[Serie C] Catanzaro
+http://live.safetv.pro:23000/pigeon/pigeon/473
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Cavese" tvg-logo="" group-title="SERIE C e D",[Serie C] Cavese
+http://live.safetv.pro:23000/pigeon/pigeon/472
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Cesena" tvg-logo="" group-title="SERIE C e D",[Serie C] Cesena
+http://live.safetv.pro:23000/pigeon/pigeon/471
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Como" tvg-logo="" group-title="SERIE C e D",[Serie C] Como
+http://live.safetv.pro:23000/pigeon/pigeon/470
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Fano" tvg-logo="" group-title="SERIE C e D",[Serie C] Fano
+http://live.safetv.pro:23000/pigeon/pigeon/469
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Feralpi Salo" tvg-logo="" group-title="SERIE C e D",[Serie C] Feralpi Salo
+http://live.safetv.pro:23000/pigeon/pigeon/468
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Fermana" tvg-logo="" group-title="SERIE C e D",[Serie C] Fermana
+http://live.safetv.pro:23000/pigeon/pigeon/467
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Giana Erminio" tvg-logo="" group-title="SERIE C e D",[Serie C] Giana Erminio
+http://live.safetv.pro:23000/pigeon/pigeon/466
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Gozzano" tvg-logo="" group-title="SERIE C e D",[Serie C] Gozzano
+http://live.safetv.pro:23000/pigeon/pigeon/465
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Gubbio" tvg-logo="" group-title="SERIE C e D",[Serie C] Gubbio
+http://live.safetv.pro:23000/pigeon/pigeon/464
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Imolese" tvg-logo="" group-title="SERIE C e D",[Serie C] Imolese
+http://live.safetv.pro:23000/pigeon/pigeon/463
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Juventus U23" tvg-logo="" group-title="SERIE C e D",[Serie C] Juventus U23
+http://live.safetv.pro:23000/pigeon/pigeon/462
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] L.R.Vicenza" tvg-logo="" group-title="SERIE C e D",[Serie C] L.R.Vicenza
+http://live.safetv.pro:23000/pigeon/pigeon/461
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Lecco" tvg-logo="" group-title="SERIE C e D",[Serie C] Lecco
+http://live.safetv.pro:23000/pigeon/pigeon/460
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Modena" tvg-logo="" group-title="SERIE C e D",[Serie C] Modena
+http://live.safetv.pro:23000/pigeon/pigeon/459
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Monopoli" tvg-logo="" group-title="SERIE C e D",[Serie C] Monopoli
+http://live.safetv.pro:23000/pigeon/pigeon/458
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Monza" tvg-logo="" group-title="SERIE C e D",[Serie C] Monza
+http://live.safetv.pro:23000/pigeon/pigeon/457
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Novara" tvg-logo="" group-title="SERIE C e D",[Serie C] Novara
+http://live.safetv.pro:23000/pigeon/pigeon/456
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Olbia" tvg-logo="" group-title="SERIE C e D",[Serie C] Olbia
+http://live.safetv.pro:23000/pigeon/pigeon/455
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Padova" tvg-logo="" group-title="SERIE C e D",[Serie C] Padova
+http://live.safetv.pro:23000/pigeon/pigeon/454
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Paganese" tvg-logo="" group-title="SERIE C e D",[Serie C] Paganese
+http://live.safetv.pro:23000/pigeon/pigeon/453
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pergolettese" tvg-logo="" group-title="SERIE C e D",[Serie C] Pergolettese
+http://live.safetv.pro:23000/pigeon/pigeon/452
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Piacenza" tvg-logo="" group-title="SERIE C e D",[Serie C] Piacenza
+http://live.safetv.pro:23000/pigeon/pigeon/451
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pianese" tvg-logo="" group-title="SERIE C e D",[Serie C] Pianese
+http://live.safetv.pro:23000/pigeon/pigeon/450
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pistoiese" tvg-logo="" group-title="SERIE C e D",[Serie C] Pistoiese
+http://live.safetv.pro:23000/pigeon/pigeon/449
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pontedera" tvg-logo="" group-title="SERIE C e D",[Serie C] Pontedera
+http://live.safetv.pro:23000/pigeon/pigeon/448
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Potenza" tvg-logo="" group-title="SERIE C e D",[Serie C] Potenza
+http://live.safetv.pro:23000/pigeon/pigeon/447
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pro Patria" tvg-logo="" group-title="SERIE C e D",[Serie C] Pro Patria
+http://live.safetv.pro:23000/pigeon/pigeon/446
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pro Vercelli" tvg-logo="" group-title="SERIE C e D",[Serie C] Pro Vercelli
+http://live.safetv.pro:23000/pigeon/pigeon/445
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Ravenna" tvg-logo="" group-title="SERIE C e D",[Serie C] Ravenna
+http://live.safetv.pro:23000/pigeon/pigeon/444
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Reggina" tvg-logo="" group-title="SERIE C e D",[Serie C] Reggina
+http://live.safetv.pro:23000/pigeon/pigeon/443
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Reggio Audace" tvg-logo="" group-title="SERIE C e D",[Serie C] Reggio Audace
+http://live.safetv.pro:23000/pigeon/pigeon/442
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Renate" tvg-logo="" group-title="SERIE C e D",[Serie C] Renate
+http://live.safetv.pro:23000/pigeon/pigeon/441
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Rende" tvg-logo="" group-title="SERIE C e D",[Serie C] Rende
+http://live.safetv.pro:23000/pigeon/pigeon/440
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Rieti" tvg-logo="" group-title="SERIE C e D",[Serie C] Rieti
+http://live.safetv.pro:23000/pigeon/pigeon/439
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Rimini" tvg-logo="" group-title="SERIE C e D",[Serie C] Rimini
+http://live.safetv.pro:23000/pigeon/pigeon/438
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Sambenedettese" tvg-logo="" group-title="SERIE C e D",[Serie C] Sambenedettese
+http://live.safetv.pro:23000/pigeon/pigeon/437
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Sicula Leonzio" tvg-logo="" group-title="SERIE C e D",[Serie C] Sicula Leonzio
+http://live.safetv.pro:23000/pigeon/pigeon/436
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Siena" tvg-logo="" group-title="SERIE C e D",[Serie C] Siena
+http://live.safetv.pro:23000/pigeon/pigeon/435
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Sudtirol" tvg-logo="" group-title="SERIE C e D",[Serie C] Sudtirol
+http://live.safetv.pro:23000/pigeon/pigeon/434
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Teramo" tvg-logo="" group-title="SERIE C e D",[Serie C] Teramo
+http://live.safetv.pro:23000/pigeon/pigeon/433
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Ternana" tvg-logo="" group-title="SERIE C e D",[Serie C] Ternana
+http://live.safetv.pro:23000/pigeon/pigeon/432
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Triestina" tvg-logo="" group-title="SERIE C e D",[Serie C] Triestina
+http://live.safetv.pro:23000/pigeon/pigeon/431
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Vibonese" tvg-logo="" group-title="SERIE C e D",[Serie C] Vibonese
+http://live.safetv.pro:23000/pigeon/pigeon/430
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Virtus Francavilla" tvg-logo="" group-title="SERIE C e D",[Serie C] Virtus Francavilla
+http://live.safetv.pro:23000/pigeon/pigeon/429
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Virtus Verona" tvg-logo="" group-title="SERIE C e D",[Serie C] Virtus Verona
+http://live.safetv.pro:23000/pigeon/pigeon/428
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Vis Pesaro" tvg-logo="" group-title="SERIE C e D",[Serie C] Vis Pesaro
+http://live.safetv.pro:23000/pigeon/pigeon/427
+#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Viterbese Castrense" tvg-logo="" group-title="SERIE C e D",[Serie C] Viterbese Castrense
+http://live.safetv.pro:23000/pigeon/pigeon/426
+#EXTINF:-1 tvg-id="" tvg-name="[Serie D] Foggia" tvg-logo="" group-title="SERIE C e D",[Serie D] Foggia
+http://live.safetv.pro:23000/pigeon/pigeon/425
+#EXTINF:-1 tvg-id="" tvg-name="[Serie D] Palermo" tvg-logo="" group-title="SERIE C e D",[Serie D] Palermo
+http://live.safetv.pro:23000/pigeon/pigeon/424
+#EXTINF:-1 tvg-id="" tvg-name="[Serie D] Mantova" tvg-logo="" group-title="SERIE C e D",[Serie D] Mantova
+http://live.safetv.pro:23000/pigeon/pigeon/5279
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="SKY ARTE FULL HD" tvg-logo="" group-title="CULTURA",SKY ARTE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/223
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="SKY ARTE HD" tvg-logo="" group-title="CULTURA",SKY ARTE HD
+http://live.safetv.pro:23000/pigeon/pigeon/222
+#EXTINF:-1 tvg-id="DoveTv.it" tvg-name="SKY DOVE TV FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY DOVE TV FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/132
+#EXTINF:-1 tvg-id="DoveTv.it" tvg-name="SKY DOVE TV HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY DOVE TV HD
+http://live.safetv.pro:23000/pigeon/pigeon/131
+#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="SKY NAT GEO FULL HD" tvg-logo="" group-title="CULTURA",SKY NAT GEO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/95
+#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="SKY NAT GEO HD" tvg-logo="" group-title="CULTURA",SKY NAT GEO HD
+http://live.safetv.pro:23000/pigeon/pigeon/94
+#EXTINF:-1 tvg-id="" tvg-name="SKY NAT GEO PEOPLE FULL HD" tvg-logo="" group-title="CULTURA",SKY NAT GEO PEOPLE FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/93
+#EXTINF:-1 tvg-id="" tvg-name="SKY NAT GEO PEOPLE HD" tvg-logo="" group-title="CULTURA",SKY NAT GEO PEOPLE HD
+http://live.safetv.pro:23000/pigeon/pigeon/92
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="SKY NAT GEO WILD FULL HD" tvg-logo="" group-title="CULTURA",SKY NAT GEO WILD FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/91
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="SKY NAT GEO WILD HD" tvg-logo="" group-title="CULTURA",SKY NAT GEO WILD HD
+http://live.safetv.pro:23000/pigeon/pigeon/90
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="SKY DISCOVERY FULL HD" tvg-logo="" group-title="CULTURA",SKY DISCOVERY FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/145
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="SKY DISCOVERY HD" tvg-logo="" group-title="CULTURA",SKY DISCOVERY HD
+http://live.safetv.pro:23000/pigeon/pigeon/144
+#EXTINF:-1 tvg-id="" tvg-name="SKY DISCOVERY SCI FULL HD" tvg-logo="" group-title="CULTURA",SKY DISCOVERY SCI FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/143
+#EXTINF:-1 tvg-id="" tvg-name="SKY DISCOVERY SCI HD" tvg-logo="" group-title="CULTURA",SKY DISCOVERY SCI HD
+http://live.safetv.pro:23000/pigeon/pigeon/142
+#EXTINF:-1 tvg-id="" tvg-name="SKY DISCOVERY TRAVEL FULL HD" tvg-logo="" group-title="CULTURA",SKY DISCOVERY TRAVEL FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/141
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" group-title="CULTURA",FOCUS
+http://live.safetv.pro:23000/pigeon/pigeon/325
+#EXTINF:-1 tvg-id="History.it" tvg-name="SKY HISTORY FULL HD" tvg-logo="" group-title="CULTURA",SKY HISTORY FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/111
+#EXTINF:-1 tvg-id="History.it" tvg-name="SKY HISTORY HD" tvg-logo="" group-title="CULTURA",SKY HISTORY HD
+http://live.safetv.pro:23000/pigeon/pigeon/110
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RAI STORIA FULL HD" tvg-logo="" group-title="ITALIA",RAI STORIA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/238
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RAI STORIA HD" tvg-logo="" group-title="ITALIA",RAI STORIA HD
+http://live.safetv.pro:23000/pigeon/pigeon/237
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RAI SCUOLA FULL HD" tvg-logo="" group-title="ITALIA",RAI SCUOLA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/242
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RAI SCUOLA HD" tvg-logo="" group-title="ITALIA",RAI SCUOLA HD
+http://live.safetv.pro:23000/pigeon/pigeon/241
+#EXTINF:-1 tvg-id="" tvg-name="LIFE 120 CHANNEL" tvg-logo="" group-title="ITALIA",LIFE 120 CHANNEL
+http://live.safetv.pro:23000/pigeon/pigeon/297
+#EXTINF:-1 tvg-id="Marcopolo.it" tvg-name="MARCO POLO" tvg-logo="" group-title="ITALIA",MARCO POLO
+http://live.safetv.pro:23000/pigeon/pigeon/296
+#EXTINF:-1 tvg-id="Spike.it" tvg-name="SPIKE" tvg-logo="" group-title="ITALIA",SPIKE
+http://live.safetv.pro:23000/pigeon/pigeon/26
+#EXTINF:-1 tvg-id="Alice.it" tvg-name="ALICE" tvg-logo="" group-title="ITALIA",ALICE
+http://live.safetv.pro:23000/pigeon/pigeon/368
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="SKY GAMBERO ROSSO FULL HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY GAMBERO ROSSO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/114
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="SKY GAMBERO ROSSO HD" tvg-logo="" group-title="SKY INTRATTENIMENTO",SKY GAMBERO ROSSO HD
+http://live.safetv.pro:23000/pigeon/pigeon/113
+#EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="ITALIAN FISHING TV" tvg-logo="" group-title="ITALIA",ITALIAN FISHING TV
+http://live.safetv.pro:23000/pigeon/pigeon/304
+#EXTINF:-1 tvg-id="DEAjr.it" tvg-name="SKY DEA JUNIOR FULL HD" tvg-logo="" group-title="BAMBINI",SKY DEA JUNIOR FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/149
+#EXTINF:-1 tvg-id="DEAjr.it" tvg-name="SKY DEA JUNIOR HD" tvg-logo="" group-title="BAMBINI",SKY DEA JUNIOR HD
+http://live.safetv.pro:23000/pigeon/pigeon/148
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="SKY DEA KIDS FULL HD" tvg-logo="" group-title="BAMBINI",SKY DEA KIDS FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/147
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="SKY DEA KIDS HD" tvg-logo="" group-title="BAMBINI",SKY DEA KIDS HD
+http://live.safetv.pro:23000/pigeon/pigeon/146
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="SKY NICK JR FULL HD" tvg-logo="" group-title="BAMBINI",SKY NICK JR FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/89
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="SKY NICK JR HD" tvg-logo="" group-title="BAMBINI",SKY NICK JR HD
+http://live.safetv.pro:23000/pigeon/pigeon/88
+#EXTINF:-1 tvg-id="" tvg-name="SKY TEEN NICK FULL HD" tvg-logo="" group-title="BAMBINI",SKY TEEN NICK FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/34
+#EXTINF:-1 tvg-id="" tvg-name="SKY TEEN NICK HD" tvg-logo="" group-title="BAMBINI",SKY TEEN NICK HD
+http://live.safetv.pro:23000/pigeon/pigeon/33
+#EXTINF:-1 tvg-id="ManGa.it" tvg-name="SKY MANGA FULL HD" tvg-logo="" group-title="BAMBINI",SKY MANGA FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/102
+#EXTINF:-1 tvg-id="ManGa.it" tvg-name="SKY MANGA HD" tvg-logo="" group-title="BAMBINI",SKY MANGA HD
+http://live.safetv.pro:23000/pigeon/pigeon/101
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="" group-title="BAMBINI",BOING
+http://live.safetv.pro:23000/pigeon/pigeon/364
+#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS" tvg-logo="" group-title="BAMBINI",BOING PLUS
+http://live.safetv.pro:23000/pigeon/pigeon/363
+#EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="SKY DISNEY CHANNELL FULL HD" tvg-logo="" group-title="BAMBINI",SKY DISNEY CHANNELL FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/140
+#EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="SKY DISNEY CHANNELL HD" tvg-logo="" group-title="BAMBINI",SKY DISNEY CHANNELL HD
+http://live.safetv.pro:23000/pigeon/pigeon/139
+#EXTINF:-1 tvg-id="DisneyJunior.it" tvg-name="SKY DISNEY JUNIOR FULL HD" tvg-logo="" group-title="BAMBINI",SKY DISNEY JUNIOR FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/137
+#EXTINF:-1 tvg-id="DisneyJunior.it" tvg-name="SKY DISNEY JUNIOR HD" tvg-logo="" group-title="BAMBINI",SKY DISNEY JUNIOR HD
+http://live.safetv.pro:23000/pigeon/pigeon/136
+#EXTINF:-1 tvg-id="" tvg-name="SKY DISNEY XD FULL HD" tvg-logo="" group-title="BAMBINI",SKY DISNEY XD FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/135
+#EXTINF:-1 tvg-id="" tvg-name="SKY DISNEY XD HD" tvg-logo="" group-title="BAMBINI",SKY DISNEY XD HD
+http://live.safetv.pro:23000/pigeon/pigeon/134
+#EXTINF:-1 tvg-id="" tvg-name="SKY DISNEY IN ENGLISH FULL HD" tvg-logo="" group-title="BAMBINI",SKY DISNEY IN ENGLISH FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/138
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="CARTOONITO" tvg-logo="" group-title="BAMBINI",CARTOONITO
+http://live.safetv.pro:23000/pigeon/pigeon/356
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="" group-title="ITALIA",K2
+http://live.safetv.pro:23000/pigeon/pigeon/303
+#EXTINF:-1 tvg-id="" tvg-name="SKY FRISBEE MINI" tvg-logo="" group-title="BAMBINI",SKY FRISBEE MINI
+http://live.safetv.pro:23000/pigeon/pigeon/115
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP FULL HD" tvg-logo="" group-title="ITALIA",RAI GULP FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/249
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP HD" tvg-logo="" group-title="ITALIA",RAI GULP HD
+http://live.safetv.pro:23000/pigeon/pigeon/248
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="" group-title="BAMBINI",SUPER!
+http://live.safetv.pro:23000/pigeon/pigeon/18
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO FULL HD" tvg-logo="" group-title="BAMBINI",RAI YOYO FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/236
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO HD" tvg-logo="" group-title="BAMBINI",RAI YOYO HD
+http://live.safetv.pro:23000/pigeon/pigeon/235
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="SKY NICKELODEON FULL HD" tvg-logo="" group-title="BAMBINI",SKY NICKELODEON FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/87
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="SKY NICKELODEON HD" tvg-logo="" group-title="BAMBINI",SKY NICKELODEON HD
+http://live.safetv.pro:23000/pigeon/pigeon/86
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="SKY BOOMERANG FULL HD" tvg-logo="" group-title="BAMBINI",SKY BOOMERANG FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/213
+#EXTINF:-1 tvg-id="" tvg-name="SKY BOOMERANG HD" tvg-logo="" group-title="BAMBINI",SKY BOOMERANG HD
+http://live.safetv.pro:23000/pigeon/pigeon/212
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="SKY CARTOON NETWORK FULL HD" tvg-logo="" group-title="BAMBINI",SKY CARTOON NETWORK FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/192
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="SKY CARTOON NETWORK HD" tvg-logo="" group-title="BAMBINI",SKY CARTOON NETWORK HD
+http://live.safetv.pro:23000/pigeon/pigeon/191
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="SKY BABY TV FULL HD" tvg-logo="" group-title="BAMBINI",SKY BABY TV FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/218
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="BABY TV" tvg-logo="" group-title="BAMBINI",BABY TV
+http://live.safetv.pro:23000/pigeon/pigeon/366
+#EXTINF:-1 tvg-id="" tvg-name="POP ITALY" tvg-logo="" group-title="BAMBINI",POP ITALY
+http://live.safetv.pro:23000/pigeon/pigeon/282
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA UNO SD
+http://live.safetv.pro:23000/pigeon/pigeon/159
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="SKY CINEMA DUE SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA DUE SD
+http://live.safetv.pro:23000/pigeon/pigeon/173
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="SKY CINEMA COLLECTION SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA COLLECTION SD
+http://live.safetv.pro:23000/pigeon/pigeon/184
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="SKY CINEMA FAMILY SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA FAMILY SD
+http://live.safetv.pro:23000/pigeon/pigeon/170
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA ACTION SD
+http://live.safetv.pro:23000/pigeon/pigeon/187
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA SUSPENSE SD
+http://live.safetv.pro:23000/pigeon/pigeon/164
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA ROMANCE SD
+http://live.safetv.pro:23000/pigeon/pigeon/167
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="SKY CINEMA DRAMA SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA DRAMA SD
+http://live.safetv.pro:23000/pigeon/pigeon/178
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="SKY CINEMA COMEDY SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CINEMA COMEDY SD
+http://live.safetv.pro:23000/pigeon/pigeon/181
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="BLAZE SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",BLAZE SD
+http://live.safetv.pro:23000/pigeon/pigeon/365
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY UNO SD
+http://live.safetv.pro:23000/pigeon/pigeon/27
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="SKY ATLANTIC SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY ATLANTIC SD
+http://live.safetv.pro:23000/pigeon/pigeon/219
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="CRIME INVESTIGATION SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",CRIME INVESTIGATION SD
+http://live.safetv.pro:23000/pigeon/pigeon/349
+#EXTINF:-1 tvg-id="DisneyJunior.it" tvg-name="DISNEY JUNIOR SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",DISNEY JUNIOR SD
+http://live.safetv.pro:23000/pigeon/pigeon/337
+#EXTINF:-1 tvg-id="" tvg-name="FOX ANIMATION SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",FOX ANIMATION SD
+http://live.safetv.pro:23000/pigeon/pigeon/323
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",FOX COMEDY SD
+http://live.safetv.pro:23000/pigeon/pigeon/322
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="FOX CRIME SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",FOX CRIME SD
+http://live.safetv.pro:23000/pigeon/pigeon/321
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",FOX LIFE SD
+http://live.safetv.pro:23000/pigeon/pigeon/320
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",FOX SD
+http://live.safetv.pro:23000/pigeon/pigeon/319
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="SKY MTV SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY MTV SD
+http://live.safetv.pro:23000/pigeon/pigeon/96
+#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN BAR SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY DAZN BAR SD
+http://live.safetv.pro:23000/pigeon/pigeon/150
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 1 SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CALCIO 1 SD
+http://live.safetv.pro:23000/pigeon/pigeon/208
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 2 SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CALCIO 2 SD
+http://live.safetv.pro:23000/pigeon/pigeon/205
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 3 SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CALCIO 3 SD
+http://live.safetv.pro:23000/pigeon/pigeon/202
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 4 SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY CALCIO 4 SD
+http://live.safetv.pro:23000/pigeon/pigeon/199
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT 24 SD
+http://live.safetv.pro:23000/pigeon/pigeon/60
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT ARENA SD
+http://live.safetv.pro:23000/pigeon/pigeon/57
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT F1 SD
+http://live.safetv.pro:23000/pigeon/pigeon/53
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT FOOTBALL SD
+http://live.safetv.pro:23000/pigeon/pigeon/50
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT GOLF SD
+http://live.safetv.pro:23000/pigeon/pigeon/47
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT MOTOGP SD
+http://live.safetv.pro:23000/pigeon/pigeon/44
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT NBA SD
+http://live.safetv.pro:23000/pigeon/pigeon/41
+#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT SERIE A SD
+http://live.safetv.pro:23000/pigeon/pigeon/38
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",SKY SPORT UNO SD
+http://live.safetv.pro:23000/pigeon/pigeon/35
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="NICK JR SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",NICK JR SD
+http://live.safetv.pro:23000/pigeon/pigeon/291
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON SD" tvg-logo="" group-title="CANALI SD BASSA QUALITA",NICKELODEON SD
+http://live.safetv.pro:23000/pigeon/pigeon/290
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL TV DIRETTO" tvg-logo="" group-title="RADIO TV",RADIO CAPITAL TV DIRETTO
+http://live.safetv.pro:23000/pigeon/pigeon/271
+#EXTINF:-1 tvg-id="" tvg-name="RDS TV" tvg-logo="" group-title="RADIO TV",RDS TV
+http://live.safetv.pro:23000/pigeon/pigeon/234
+#EXTINF:-1 tvg-id="" tvg-name="RADIO NUMBER ONE TV DIRETTO" tvg-logo="" group-title="RADIO TV",RADIO NUMBER ONE TV DIRETTO
+http://live.safetv.pro:23000/pigeon/pigeon/266
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ITALIA TV HD" tvg-logo="" group-title="RADIO TV",RADIO ITALIA TV HD
+http://live.safetv.pro:23000/pigeon/pigeon/268
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ZETA TV HD" tvg-logo="" group-title="RADIO TV",RADIO ZETA TV HD
+http://live.safetv.pro:23000/pigeon/pigeon/263
+#EXTINF:-1 tvg-id="" tvg-name="RADIO RADIO TV" tvg-logo="" group-title="RADIO TV",RADIO RADIO TV
+http://live.safetv.pro:23000/pigeon/pigeon/264
+#EXTINF:-1 tvg-id="" tvg-name="RADIO R101" tvg-logo="" group-title="RADIO TV",RADIO R101
+http://live.safetv.pro:23000/pigeon/pigeon/265
+#EXTINF:-1 tvg-id="" tvg-name="RADIO NORBA TV" tvg-logo="" group-title="RADIO TV",RADIO NORBA TV
+http://live.safetv.pro:23000/pigeon/pigeon/267
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ITALIA RAP TV HD" tvg-logo="" group-title="RADIO TV",RADIO ITALIA RAP TV HD
+http://live.safetv.pro:23000/pigeon/pigeon/269
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA HD" tvg-logo="" group-title="RADIO TV",RADIO FRECCIA HD
+http://live.safetv.pro:23000/pigeon/pigeon/270
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 HD" tvg-logo="" group-title="RADIO TV",RTL 102.5 HD
+http://live.safetv.pro:23000/pigeon/pigeon/227
+#EXTINF:-1 tvg-id="" tvg-name="DEEJAY TV HD" tvg-logo="" group-title="RADIO TV",DEEJAY TV HD
+http://live.safetv.pro:23000/pigeon/pigeon/338
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="" group-title="NOTIZIE",SKY TG 24 HD
+http://live.safetv.pro:23000/pigeon/pigeon/32
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="" group-title="NOTIZIE",SKY TG24 FULL HD
+http://live.safetv.pro:23000/pigeon/pigeon/31
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="" group-title="ITALIA",RAI NEWS 24 HD
+http://live.safetv.pro:23000/pigeon/pigeon/245
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="TGCOM24" tvg-logo="" group-title="NOTIZIE",TGCOM24
+http://live.safetv.pro:23000/pigeon/pigeon/16
+#EXTINF:-1 tvg-id="Tgnorba24.it" tvg-name="TG NORBA 24" tvg-logo="" group-title="NOTIZIE",TG NORBA 24
+http://live.safetv.pro:23000/pigeon/pigeon/17
